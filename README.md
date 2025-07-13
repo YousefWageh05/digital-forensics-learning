@@ -27,9 +27,4 @@ Follow my weekly learning and hands-on practice logs:
   
 ## 📸 Screenshots
 
-## 🔗 Resources Used
-- [Google IT Support](https://coursera.org/professional-certificates/google-it-support)
-- [Kali Linux](https://www.kali.org/)
-- [VirtualBox](https://www.virtualbox.org)
-
 Stay tuned for weekly updates!
