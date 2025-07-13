@@ -15,6 +15,8 @@ Follow my weekly learning and hands-on practice logs:
 - VirtualBox + Windows 10 + Kali Linux
 - Basic Networking Tools: `ping`, `ipconfig`, `netstat`
 - File System navigation (Linux + Windows)
+  
+## 📸 Screenshots
 
 ## 🔗 Resources Used
 - [Google IT Support](https://coursera.org/professional-certificates/google-it-support)
