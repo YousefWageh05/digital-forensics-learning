@@ -13,7 +13,7 @@ Follow my weekly learning and hands-on practice logs:
 
 ## 📅 What I Did – Week 1
 
-- ✅ Completed modules 1 & 2 of Google IT Support (IT Fundamentals)
+- ✅ Completed Google IT Support Course (IT Fundamentals)
 - ✅ Learned key IT concepts: hardware, software, networking basics, and OS types
 - ✅ Installed Kali Linux and Windows 10 on VirtualBox
 - ✅ Practiced basic networking commands: `ping`, `ipconfig`, `netstat`
