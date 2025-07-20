@@ -19,12 +19,13 @@ Follow my weekly learning and hands-on practice logs:
 - ✅ Practiced basic networking commands: `ping`, `ipconfig`, `netstat`
 - ✅ Explored file system structures in both Windows and Linux
 - ✅ Took and documented screenshots of all steps
+- ✅ Used TryHackMe rooms for Linux Fundamentals and Windows Fundamentals for practical hands-on OS training
 
 ## 🛠️ Tools Covered So Far
 - VirtualBox + Windows 10 + Kali Linux
 - Basic Networking Tools: `ping`, `ipconfig`, `netstat`
 - File System navigation (Linux + Windows)
-  
+
 ## 📸 Screenshots
 
 Stay tuned for weekly updates!
